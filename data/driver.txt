@@ -1,0 +1,8 @@
+Rahul Pune MH12AB1234 Car 1
+Amit Pune MH14CD5678 Bike 1
+Vikas Mumbai MH01EF9012 SUV 1
+Rohan Pune MH12GH3456 Auto 1
+Kunal Nashik MH15IJ7890 Car 1
+Neeraj Pune MH12KL2468 Bike 1
+Sagar Mumbai MH01MN1357 Auto 1
+Akash Pune MH12OP8642 SUV 1
